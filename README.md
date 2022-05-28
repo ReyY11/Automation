@@ -1,2 +1,2 @@
 # Automation
-Locator and Amazon Project
+Selenium Projects
