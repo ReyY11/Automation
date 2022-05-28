@@ -1,2 +1,4 @@
-# Automation
-Selenium Projects
+# Automation/Selenium
+Locator techniques
+testNG
+WebDriver
